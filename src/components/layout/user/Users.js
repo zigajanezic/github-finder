@@ -28,6 +28,12 @@ class Users extends Component {
 				avatar_url: 'https://avatars.githubusercontent.com/u/3?v=4',
 				html_url: 'https://github.com/defunkt',
 			},
+			{
+				id: '5',
+				login: 'še ena budala',
+				avatar_url: 'https://avatars.githubusercontent.com/u/3?v=4',
+				html_url: 'https://github.com/defunkt',
+			},
 		],
 	};
 
